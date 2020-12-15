@@ -2,7 +2,9 @@
 
 I'm Alex and I am doing some stuff with computers, like everybody else who is active on this platform. Currently, I study Computer Science in Magdeburg (🇩🇪 Germany).
 
-In the past, I worked for [@UniNow](https://github.com/UniNow). I am mostly doing backend deployment and automation stuff. Sometimes I also do some frontend development.
+Currently I work as a DevOps Engineer at [@makaira.io](https://github.com/makaira.io). I am responsible for the migration to Kubernetes.
+
+Previously, I worked for [@UniNow](https://github.com/UniNow). I am mostly doing backend development and automation stuff. Sometimes I also do some frontend development.
 
 I also offer a site that provides some (at least for me) useful tools. You can find it [here](https://tools.alexbabel.com).
 
@@ -27,6 +29,7 @@ I also offer a site that provides some (at least for me) useful tools. You can f
 #### 📦 DevOps/Deployment technologies I use:
 * Docker
 * Kubernetes (GitOps approach with ArgoCD)
+* Helm
 * Dokku
 * Semantic Release
 
