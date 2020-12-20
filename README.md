@@ -8,6 +8,10 @@ Previously, I worked for [@UniNow](https://github.com/UniNow). I am mostly doing
 
 I also offer a site that provides some (at least for me) useful tools. You can find it [here](https://tools.alexbabel.com).
 
+#### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderBabel&show_icons=true&theme=tokyonight&count_private=true)
+
 #### 🔭 Languages & Frameworks I use (not sorted by priority, just how they came to my mind):
 * JavaScript
 * TypeScript
