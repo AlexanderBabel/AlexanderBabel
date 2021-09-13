@@ -15,7 +15,9 @@ I also offer a site that provides some (at least for me) useful tools. You can f
 #### 🔭 Languages & Frameworks I use (not sorted by priority, just how they came to my mind):
 * JavaScript
 * TypeScript
+* Python
 * NodeJS
+* NestJS
 * ReactJS
 * React Native
 * Electron
@@ -23,29 +25,29 @@ I also offer a site that provides some (at least for me) useful tools. You can f
 * Apollo Server & Client
 * Express / Koa
 * Java (in the past - I worked mostly with the Spigot & BungeeCord API \[Server framework for Minecraft\])
-* Python (a bit for a lecture one semester ago)
 * Bash (a bit)
 
 #### 🗃 Database Systems I use:
 * MongoDB
 * PostgreSQL
+* MySQL
 
 #### 📦 DevOps/Deployment technologies I use:
 * Docker
 * Kubernetes (GitOps approach with ArgoCD)
 * Helm
-* Dokku
 * Semantic Release
 
 #### 🛠 Development Tools I use:
 * VSCode
+* Lens
 * Postico 2 (beta)
 * Studio3T (EDU)
-* brew (macOS)
+* homebrew (macOS)
 
-#### 🌱 Currently Learning:
+<!-- #### 🌱 Currently Learning:
 * Swift
-* SwiftUI
+* SwiftUI -->
 
 <!--
 **AlexanderBabel/AlexanderBabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
