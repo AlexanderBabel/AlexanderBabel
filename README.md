@@ -1,14 +1,24 @@
 ### Hi there 👋
 
-I'm Alex and I am doing some stuff with computers, like everybody else who is active on this platform. Currently, I study Computer Science in Magdeburg (🇩🇪 Germany).
+I'm Alex, and I am doing some stuff with computers, like everybody else who is active on this platform. Currently, I am a Masters student for Computer Science in Magdeburg (🇩🇪 Germany).
 
-Currently, I work as a DevOps Engineer at [@UniNow](https://github.com/UniNow).
+Besides that, I work as a Platform Engineer at [@UniNow](https://github.com/UniNow). My day-to-day business includes doing fancy deployments in Kubernetes with ArgoCD and other tools. But sometimes I am also coding new features for the backend or frontend software running at the company.
 
-I also offer a site that provides some (at least for me) useful tools. You can find it [here](https://tools.alexbabel.com).
+I also offer a site that provides some (at least for me) useful tools. You can find it at [tools.alexbabel.com](https://tools.alexbabel.com).
 
 #### Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderBabel&show_icons=true&theme=tokyonight&count_private=true)
+
+#### 📦 Platform Engineering/Deployment technologies I use:
+* Docker
+* Kubernetes (GitOps approach with ArgoCD)
+* Helm
+* Semantic Release
+* Renovate
+* OVH Hosted Services
+* Self managed k3s (TrueNAS SCALE, k3s ansible role with kilo)
+* S3 (AWS, OVH, Scaleway, MinIO, CF R2)
 
 #### 🔭 Languages & Frameworks I use (not sorted by priority, just how they came to my mind):
 * JavaScript
@@ -30,18 +40,12 @@ I also offer a site that provides some (at least for me) useful tools. You can f
 * PostgreSQL
 * MySQL
 
-#### 📦 DevOps/Deployment technologies I use:
-* Docker
-* Kubernetes (GitOps approach with ArgoCD)
-* Helm
-* Semantic Release
-
 #### 🛠 Development Tools I use:
+* macOS
 * VSCode
 * Lens
-* Postico 2 (beta)
-* Studio3T (EDU)
-* homebrew (macOS)
+* Postico 2
+* homebrew
 
 <!-- #### 🌱 Currently Learning:
 * Swift
