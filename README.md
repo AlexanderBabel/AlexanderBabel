@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alex, and I am doing some stuff with computers, like everybody else who is active on this platform. Currently, I am a Masters student for Computer Science in Magdeburg (🇩🇪 Germany).
+I'm Alex, and I am doing some stuff with computers, like everybody else who is active on this platform. Currently, I am a Masters student for Computer Science in Uppsala (🇸🇪 Sweden).
 
 Besides that, I work as a Platform Engineer at [@UniNow](https://github.com/UniNow). My day-to-day business includes doing fancy deployments in Kubernetes with ArgoCD and other tools. But sometimes I am also coding new features for the backend or frontend software running at the company.
 
